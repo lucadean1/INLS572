@@ -104,21 +104,6 @@ a.resourcelink {
 .mini-links { margin-top: 0.5em; }
 
 
-.links-grid {
-    display: grid;
-    gap: 1rem;
-    grid-template-columns: 1fr;
-}
-@media (min-width: 720px) {
-    
-}
-
-.link-list {
-    list-style: none;
-    margin: 0.5em 0 0 0;
-    padding: 0;
-}
-.link-list li { margin-bottom: 0.5em; }
 
 
 @media (max-width: 420px) {
@@ -147,5 +132,4 @@ a.resourcelink {
     height: auto;
     border: 1px solid #ceccc8;
     border-radius: 0.5em;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
