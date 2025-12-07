@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: "Outfit", sans-serif;
-    background: linear-gradient(90deg, #ceccc8 0%, #9a7b54 100%);
+    
     font-weight: 600;
     font-style: normal;
     color: #76513B;
@@ -15,6 +15,7 @@ body {
 }
 
 header {
+    background: linear-gradient(90deg, #ceccc8 0%, #9a7b54 100%);
     text-align: center;
     margin-bottom: 2em;
     padding: 1em;
